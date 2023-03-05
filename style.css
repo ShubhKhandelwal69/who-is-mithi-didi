@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mithi Didi Mobile</title>
+	<meta name="description" content="Mithi Didi is always on her mobile because she has 3 jobs and 10 hobbies: eating, drinking, abusing, chatting, gossiping, watching TV, doing drama, misbehaving, and using her mobile.">
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #f1f1f1;
+		}
+		h1 {
+			color: #4CAF50;
+			text-align: center;
+		}
+		ul {
+			list-style-type: none;
+			padding: 0;
+			margin: 0;
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+		}
+		li {
+			margin: 5px;
+			padding: 10px;
+			background-color: #fff;
+			border-radius: 5px;
+			box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+			text-align: center;
+			flex-basis: 30%;
+			max-width: 300px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Mithi Didi Mobile</h1>
+	<p>Mithi Didi is always on her mobile because she has 3 name and 10 work:</p>
+	<ul>
+		<li>Khaao</li>
+		<li>Piyo</li>
+		<li>Hago</li>
+		<li>Lahdo</li>
+		<li>Bakaiti Karo</li>
+		<li>Gali Do</li>
+		<li>TV Dekho</li>
+		<li>Nautanki Karo</li>
+		<li>Batameezi Karo</li>
+		<li>Mobile</li>
+	</ul>
+</body>
+</html>
